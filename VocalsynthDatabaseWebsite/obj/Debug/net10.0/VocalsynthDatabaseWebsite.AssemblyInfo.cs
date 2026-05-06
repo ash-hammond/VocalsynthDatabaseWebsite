@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VocalsynthDatabaseWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e5382956a811d6ad8cdb1a8afe36bde10af364")]
 [assembly: System.Reflection.AssemblyProductAttribute("VocalsynthDatabaseWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VocalsynthDatabaseWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
