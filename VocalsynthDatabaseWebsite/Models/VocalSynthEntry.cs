@@ -7,5 +7,7 @@ namespace VocalsynthDatabaseWebsite.Models
         public string VoiceBank { get; set; } = string.Empty;
         public DateTime ReleaseDate { get; set; }
         public string Notes { get; set; } = string.Empty;
+
+        public ICollection<SongVocalSynth> SongVocalSynths { get; set; } = new List<SongVocalSynth>();
     }
 }
